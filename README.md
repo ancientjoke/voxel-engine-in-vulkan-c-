@@ -5,3 +5,9 @@ reference:
 - https://vkguide.dev/docs/ascendant/ascendant_geometry/
 - https://auburn.github.io/FastNoiseLite/
 - https://vkguide.dev/ general
+
+2/2/26 ui
+<img width="1280" height="752" alt="image" src="https://github.com/user-attachments/assets/93815620-83f2-4add-a05b-89aec514eb2d" />
+reference:
+- https://vkguide.dev/docs/new_chapter_2/vulkan_imgui_setup/
+- https://www.youtube.com/watch?v=drHKzbu6uC0
