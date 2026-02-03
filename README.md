@@ -5,6 +5,7 @@ reference:
 - https://vkguide.dev/docs/ascendant/ascendant_geometry/
 - https://auburn.github.io/FastNoiseLite/
 - https://vkguide.dev/ general
+- https://dubiousconst282.github.io/2024/10/03/voxel-ray-tracing/
 
 2/2/26 ui
 <img width="1280" height="752" alt="image" src="https://github.com/user-attachments/assets/93815620-83f2-4add-a05b-89aec514eb2d" />
