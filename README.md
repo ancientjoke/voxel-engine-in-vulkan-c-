@@ -17,6 +17,9 @@ optimisations
 <img width="1282" height="754" alt="image" src="https://github.com/user-attachments/assets/218b0a5a-f324-47ff-a4b4-e365d57b5841" />
 first steps in implementing greedymeshing LOD 0-2 && raymarching
 
+
 shaders && LOD 6 range
 <img width="1290" height="767" alt="image" src="https://github.com/user-attachments/assets/e4949448-c2ee-48ff-a061-8305545c120e" />
 
+image
+switched from FastNoiseLite to FastNoise2
