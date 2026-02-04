@@ -22,4 +22,4 @@ shaders && LOD 6 range
 <img width="1290" height="767" alt="image" src="https://github.com/user-attachments/assets/e4949448-c2ee-48ff-a061-8305545c120e" />
 
 image
-switched from FastNoiseLite to FastNoise2
+- switched from FastNoiseLite to FastNoise2
