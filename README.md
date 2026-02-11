@@ -21,3 +21,9 @@ first steps in implementing greedymeshing LOD 0-2 && raymarching
 shaders && LOD 6 range
 <img width="1290" height="767" alt="image" src="https://github.com/user-attachments/assets/e4949448-c2ee-48ff-a061-8305545c120e" />
 <img width="1610" height="881" alt="image" src="https://github.com/user-attachments/assets/2a178607-79f4-49ac-b483-41ea9b8b6f74" />
+
+project end ...
+- issues:
+- project was build for fastnoiselite library in a console project in vc to learn vulkan c++ applications in voxel terrain generator/renderer
+
+- switching to fastnoise2 cmake project reimplementing existing features etc etc ...
